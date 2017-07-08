@@ -1,0 +1,7 @@
+#Fri Jul 07 19:59:08 PDT 2017
+base.0=/Volumes/data/Development/Android/vuforia-sdk-android-6-2-10/samples/VuforiaSamples-6-2-10/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_82539fa550852edac9d3024fa49a48867198a358
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Volumes/data/Development/Android/vuforia-sdk-android-6-2-10/samples/VuforiaSamples-6-2-10/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2c9e7504bbe817d6b351b1035c8441a9daa60d1f/classes.dex
+base.1=/Volumes/data/Development/Android/vuforia-sdk-android-6-2-10/samples/VuforiaSamples-6-2-10/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2c9e7504bbe817d6b351b1035c8441a9daa60d1f
+file.0=/Volumes/data/Development/Android/vuforia-sdk-android-6-2-10/samples/VuforiaSamples-6-2-10/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_82539fa550852edac9d3024fa49a48867198a358/classes.dex

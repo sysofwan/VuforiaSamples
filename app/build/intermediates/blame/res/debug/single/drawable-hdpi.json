@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/data/Development/Android/vuforia-sdk-android-6-2-10/samples/VuforiaSamples-6-2-10/app/build/intermediates/res/merged/debug/drawable-hdpi/logo.png",
+        "source": "/Volumes/data/Development/Android/vuforia-sdk-android-6-2-10/samples/VuforiaSamples-6-2-10/app/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/Volumes/data/Development/Android/vuforia-sdk-android-6-2-10/samples/VuforiaSamples-6-2-10/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/Volumes/data/Development/Android/vuforia-sdk-android-6-2-10/samples/VuforiaSamples-6-2-10/app/src/main/res/drawable-hdpi/icon.png"
+    }
+]

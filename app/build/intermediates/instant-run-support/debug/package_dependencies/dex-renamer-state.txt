@@ -1,0 +1,4 @@
+#Fri Jul 07 19:55:10 PDT 2017
+base.0=/Volumes/data/Development/Android/vuforia-sdk-android-6-2-10/samples/VuforiaSamples-6-2-10/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_da0ac37b2141edfeb1ee4742907d28d1c195763d
+renamed.0=classes.dex
+file.0=/Volumes/data/Development/Android/vuforia-sdk-android-6-2-10/samples/VuforiaSamples-6-2-10/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_da0ac37b2141edfeb1ee4742907d28d1c195763d/classes.dex
